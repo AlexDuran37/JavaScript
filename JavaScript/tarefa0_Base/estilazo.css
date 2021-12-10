@@ -1,0 +1,24 @@
+h1{
+	color:blueviolet;
+	margin-top: 1.5em;
+}
+
+hr{
+	color:black;
+}
+
+
+h2{
+	color: darkred;
+}
+
+body{
+	margin: 2cm;
+	font-family: sans-serif;
+}
+
+
+code{
+	font-size: 2rem;
+	color: black;
+}
